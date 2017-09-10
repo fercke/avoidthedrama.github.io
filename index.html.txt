@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
@@ -6,7 +6,7 @@
     </head>
     <body> 
       <left><h1>Валерия Агаркова</h1></left>
-      <left><img alt="Я знаю, что ничего не знаю." width="15%" src="me.jpg"></left>
+      <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
       Страничка <a href=https://vk.com/id445351408</a>
